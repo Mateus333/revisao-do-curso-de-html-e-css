@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'Droid';
+    src: url('fontes/idroid.otf') format('opentype');
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: gray;
+}
+
+h1 {
+    font-family: Droid;
+}
